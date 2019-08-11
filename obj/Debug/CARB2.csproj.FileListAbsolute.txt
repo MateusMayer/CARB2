@@ -1,0 +1,12 @@
+C:\Users\mateu\Desktop\CARB2\bin\Debug\CARB2.exe.config
+C:\Users\mateu\Desktop\CARB2\bin\Debug\CARB2.exe
+C:\Users\mateu\Desktop\CARB2\bin\Debug\CARB2.pdb
+C:\Users\mateu\Desktop\CARB2\obj\Debug\CARB2.csprojAssemblyReference.cache
+C:\Users\mateu\Desktop\CARB2\obj\Debug\CARB2.Form1.resources
+C:\Users\mateu\Desktop\CARB2\obj\Debug\CARB2.Properties.Resources.resources
+C:\Users\mateu\Desktop\CARB2\obj\Debug\CARB2.csproj.GenerateResource.cache
+C:\Users\mateu\Desktop\CARB2\obj\Debug\CARB2.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Desktop\CARB2\obj\Debug\CARB2.exe
+C:\Users\mateu\Desktop\CARB2\obj\Debug\CARB2.pdb
+C:\Users\mateu\Desktop\CARB2\obj\Debug\CARB2.Form2.resources
+C:\Users\mateu\Desktop\CARB2\obj\Debug\CARB2.Form3.resources

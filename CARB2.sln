@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CARB2", "CARB2.csproj", "{01F75D37-7367-4604-8334-63A4C9146BA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01F75D37-7367-4604-8334-63A4C9146BA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01F75D37-7367-4604-8334-63A4C9146BA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01F75D37-7367-4604-8334-63A4C9146BA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01F75D37-7367-4604-8334-63A4C9146BA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDF706EC-F24E-4257-8A12-BA865621E695}
+	EndGlobalSection
+EndGlobal
